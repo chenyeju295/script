@@ -23,7 +23,7 @@ DEFAULT_IMAGE_CONFIG = {
     "height": 1440,
     "steps": 2,
     "response_format": "b64_json",
-    "output_path": "assets/images"
+    "output_path": "/Users/chenyeju/Documents/apps/shaoo/lib/assets/images"
 }
 
 class TogetherApiService:
@@ -130,7 +130,7 @@ class TogetherApiService:
 
 def load_prompts() -> List[Dict]:
     try:
-        with open('./generate_images/prompts.json', 'r', encoding='utf-8') as f:
+        with open('./prompts.json', 'r', encoding='utf-8') as f:
             data = json.load(f)
             return data.get('prompts', [])
     except Exception as e:

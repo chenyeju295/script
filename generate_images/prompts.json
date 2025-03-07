@@ -1,88 +1,28 @@
 {
   "prompts": [ 
     {
-      "name": "banner1",
-      "prompt": "A vibrant music discovery scene showing a diverse collection of musical instruments and streaming music interfaces against a colorful gradient background. Modern, digital aesthetic with music visualization elements. The image emphasizes discovery and exploration of new music.",
-      "ratio": "16/9",
-      "subfolder": "banners"
-    },
-    {
-      "name": "banner2",
-      "prompt": "An energetic live concert scene with a large crowd and stage lighting. Shows performers on stage with dynamic lighting effects and an enthusiastic audience. The atmosphere captures the excitement of live music performances.",
-      "ratio": "16/9",
-      "subfolder": "banners"
-    },
-    {
-      "name": "banner3",
-      "prompt": "A stylish visualization of music charts and trending songs. Modern design with floating music album covers, ranking numbers, and dynamic wave forms. Uses purple and deep blue gradient background with white and gold accents.",
-      "ratio": "16/9",
-      "subfolder": "banners"
-    },
-    {
-      "name": "artist1",
-      "prompt": "Professional headshot of a female pop singer in her 20s with a modern, confident look. Natural makeup, styled hair, and a charismatic smile. Clean studio background with soft lighting.",
+      "name": "tony",
+      "prompt": "a captivating androgynous figure, \"Tony,\" a youthful, alluring European-American woman with an effortlessly chic street style, embodying 20 years of professional skateboarding experience, her elegant features framed by sun-kissed blonde hair casually pulled back, revealing piercing blue eyes that radiate confidence and a hint of playful mischief; dressed in a slightly oversized, vintage band tee tucked into high-waisted, ripped black jeans adorned with subtle chain detailing, complemented by classic, worn-in Vans Old Skools; executing a flawless backside tailslide on a weathered, graffiti-covered handrail, her body perfectly balanced, showcasing her mastery of technical flip tricks, rail grinds, and gap jumps; the scene bathed in the golden light of late afternoon in a vibrant California skatepark, the background blurred with the silhouettes of other skaters and palm trees against a hazy sunset; a slight smirk plays on her lips as she effortlessly lands the trick, her expression a mix of focused determination and pure joy; full shot, dynamic angle from below emphasizing her athleticism and skill, sharp focus on her face and the skateboard, shallow depth of field blurring the background, natural, diffused light creating a warm and inviting atmosphere, gritty texture and slight chromatic aberration for an authentic, film-like feel; 8k resolution, photorealistic rendering, cinematic lighting.",
       "ratio": "1/1",
-      "subfolder": "artists"
-    },
-    {
-      "name": "artist2",
-      "prompt": "Portrait of a male rock musician in his 30s with an edgy style. Wearing leather jacket, has styled hair, and a confident expression. Dark, textured background with dramatic lighting.",
-      "ratio": "1/1",
-      "subfolder": "artists"
-    },
-    {
-      "name": "artist3",
-      "prompt": "Elegant portrait of a female classical musician in her 20s. Professional appearance with a sophisticated look. Neutral studio background with classical music elements subtly visible.",
-      "ratio": "1/1",
-      "subfolder": "artists"
-    },
-    {
-      "name": "pop_star",
-      "prompt": "Full body illustration of a stylized pop star character. Modern fashion with bright colors, dynamic pose showing performance energy. Includes signature pop music elements and stage presence.",
-      "ratio": "3/4",
       "subfolder": "characters"
     },
     {
-      "name": "rock_legend",
-      "prompt": "Full body illustration of a rock guitarist character. Edgy style with leather and metal elements, holding an electric guitar. Dynamic pose with rock music attitude.",
-      "ratio": "3/4",
-      "subfolder": "characters"
-    },
-    {
-      "name": "classical_maestro",
-      "prompt": "Full body illustration of a classical conductor character. Elegant formal attire, conducting pose with baton. Dignified and professional appearance.",
-      "ratio": "3/4",
-      "subfolder": "characters"
-    },
-    {
-      "name": "jazz_master",
-      "prompt": "Full body illustration of a jazz musician character. Sophisticated style with classic jazz elements, holding a saxophone. Smooth and cool appearance.",
-      "ratio": "3/4",
-      "subfolder": "characters"
-    }, 
-    {
-      "name": "video1",
-      "prompt": "Summer concert scene thumbnail with vibrant outdoor festival atmosphere. Shows stage with performers and colorful lighting against a sunset sky. High energy and festive mood.",
-      "ratio": "16/9",
-      "subfolder": "videos"
-    },
-    {
-      "name": "video2",
-      "prompt": "Behind the scenes music studio shot. Shows professional recording equipment, instruments, and studio environment. Warm lighting with technical music production elements.",
-      "ratio": "16/9",
-      "subfolder": "videos"
-    }, 
-    {
-      "name": "user1",
-      "prompt": "Profile picture of a jazz enthusiast. Casual and friendly appearance with subtle jazz-related elements in the background. Natural lighting and authentic expression.",
+      "name": "sarah",
+      "prompt": "/imagine Sarah, a young and captivating European woman with a stylish and elegant appearance, soaring through the air on a skateboard above a vert ramp. She's in mid-air executing a complex aerial maneuver, legs slightly bent, her body a graceful arc against the sky. She's wearing a vibrant, modern skater outfit - a cropped tank top revealing toned abs, high-waisted denim shorts with distressed details, and brightly colored skate shoes. Her long, sun-kissed blonde hair is flowing behind her, catching the light. Her expression is one of intense focus and exhilaration, a slight smile playing on her lips.\n\nPhotorealistic, cinematic lighting, dramatic rim light highlighting her silhouette against the bright blue sky. Shallow depth of field, focusing sharply on Sarah while blurring the ramp and background spectators. Dynamic composition, capturing the motion and energy of the moment. The vert ramp is well-worn with vibrant graffiti art, suggesting a well-loved skate park. Spectators are visible in the blurred background, cheering and holding up phones.\n\nExtreme sports photography, taken with a high-speed camera to freeze the action. Soft, warm light filtering through the afternoon sun. Sharp focus on Sarah's face and body, highlighting her athletic physique and determined gaze. Golden hour lighting, adding a warm, radiant glow to the scene. Capture the thrill and freedom of vert skating.",
       "ratio": "1/1",
-      "subfolder": "users"
+      "subfolder": "characters"
     },
     {
-      "name": "user2",
-      "prompt": "Profile picture of a rock music fan. Edgy style with band t-shirt and authentic rock culture elements. Natural, candid expression.",
+      "name": "mike",
+      "prompt": "((Mike)), Freestyle skateboarder, expert level, dance-influenced, Manual Combinations, Flatground Creativity, dynamic pose mid-trick, executing a complex manual combo, blurred motion suggesting speed and flow, focused expression, intense concentration, slightly furrowed brow, determined gaze, wearing a comfortable yet stylish outfit suitable for skateboarding, loose-fitting t-shirt with a subtle graphic design, well-worn skate shoes (e.g., Vans Old Skool or similar), slightly baggy jeans rolled up at the ankles, protective pads barely visible beneath clothing, wrist guards, early evening golden hour lighting, warm sunlight casting long shadows on the flatground skate spot, background blurred slightly to emphasize the subject, shallow depth of field, capturing the energy and motion of freestyle skateboarding, gritty urban skatepark setting, cracked asphalt, graffiti-covered walls, distant cityscape silhouette, professional action sports photography, high dynamic range, sharp focus on the subject's face and skateboard, 85mm lens, f/2.8 aperture, ISO 200, shutter speed 1/1000s, rule of thirds composition, dynamic angle, conveying a sense of movement and athleticism.",
       "ratio": "1/1",
-      "subfolder": "users"
+      "subfolder": "characters"
+    },
+    {
+      "name": "kai",
+      "prompt": "Young, attractive, stylish European woman named Kai, pro skateboarder specializing in park style, known for smooth lines and creative transfers.\n\n**Appearance:** Flowing, slightly wavy blonde hair cascading down her back, framing a youthful, sun-kissed face. Piercing blue eyes with a playful glint. She's wearing a comfortable but fashionable outfit: a slightly oversized, vintage graphic tee (possibly showcasing a California skate brand), ripped light wash high-waisted jeans, and well-worn but clean Vans Sk8-Hi sneakers. A delicate silver chain necklace and small hoop earrings add a touch of elegance. Her skin is healthy with a natural tan, showcasing the hours spent in the sun.\n\n**Pose and Expression:** She's effortlessly executing a smooth backside air in a concrete bowl, her body perfectly balanced and radiating confidence. Her face is focused yet relaxed, a subtle smile playing on her lips, conveying the joy of skating. Her body is slightly twisted in mid-air, showcasing the fluidity of her movements.\n\n**Setting:** A vibrant, sun-drenched Southern California skatepark, possibly reminiscent of iconic parks like Venice Beach or Upland. The bowl is clean and well-maintained, with colorful graffiti art adding a gritty, artistic touch to the backdrop. Other skaters can be faintly seen in the background, adding to the sense of community and energy.\n\n**Photography Details:** Sharp focus on Kai, capturing every detail of her expression and the texture of her clothing. Golden hour lighting, with warm sunlight casting long shadows and highlighting the contours of her face and body. A shallow depth of field blurs the background, drawing attention to the subject. The shot is taken from a low angle, emphasizing the height and power of her air. Dynamic composition, with Kai positioned off-center, creating a sense of movement and anticipation. Use of film grain to add a vintage, authentic feel. High resolution, capturing the intricate details of the skatepark and the skater's gear.",
+      "ratio": "1/1",
+      "subfolder": "characters"
     }
   ]
-} 
+}
