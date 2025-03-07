@@ -1,0 +1,88 @@
+{
+  "prompts": [ 
+    {
+      "name": "banner1",
+      "prompt": "A vibrant music discovery scene showing a diverse collection of musical instruments and streaming music interfaces against a colorful gradient background. Modern, digital aesthetic with music visualization elements. The image emphasizes discovery and exploration of new music.",
+      "ratio": "16/9",
+      "subfolder": "banners"
+    },
+    {
+      "name": "banner2",
+      "prompt": "An energetic live concert scene with a large crowd and stage lighting. Shows performers on stage with dynamic lighting effects and an enthusiastic audience. The atmosphere captures the excitement of live music performances.",
+      "ratio": "16/9",
+      "subfolder": "banners"
+    },
+    {
+      "name": "banner3",
+      "prompt": "A stylish visualization of music charts and trending songs. Modern design with floating music album covers, ranking numbers, and dynamic wave forms. Uses purple and deep blue gradient background with white and gold accents.",
+      "ratio": "16/9",
+      "subfolder": "banners"
+    },
+    {
+      "name": "artist1",
+      "prompt": "Professional headshot of a female pop singer in her 20s with a modern, confident look. Natural makeup, styled hair, and a charismatic smile. Clean studio background with soft lighting.",
+      "ratio": "1/1",
+      "subfolder": "artists"
+    },
+    {
+      "name": "artist2",
+      "prompt": "Portrait of a male rock musician in his 30s with an edgy style. Wearing leather jacket, has styled hair, and a confident expression. Dark, textured background with dramatic lighting.",
+      "ratio": "1/1",
+      "subfolder": "artists"
+    },
+    {
+      "name": "artist3",
+      "prompt": "Elegant portrait of a female classical musician in her 20s. Professional appearance with a sophisticated look. Neutral studio background with classical music elements subtly visible.",
+      "ratio": "1/1",
+      "subfolder": "artists"
+    },
+    {
+      "name": "pop_star",
+      "prompt": "Full body illustration of a stylized pop star character. Modern fashion with bright colors, dynamic pose showing performance energy. Includes signature pop music elements and stage presence.",
+      "ratio": "3/4",
+      "subfolder": "characters"
+    },
+    {
+      "name": "rock_legend",
+      "prompt": "Full body illustration of a rock guitarist character. Edgy style with leather and metal elements, holding an electric guitar. Dynamic pose with rock music attitude.",
+      "ratio": "3/4",
+      "subfolder": "characters"
+    },
+    {
+      "name": "classical_maestro",
+      "prompt": "Full body illustration of a classical conductor character. Elegant formal attire, conducting pose with baton. Dignified and professional appearance.",
+      "ratio": "3/4",
+      "subfolder": "characters"
+    },
+    {
+      "name": "jazz_master",
+      "prompt": "Full body illustration of a jazz musician character. Sophisticated style with classic jazz elements, holding a saxophone. Smooth and cool appearance.",
+      "ratio": "3/4",
+      "subfolder": "characters"
+    }, 
+    {
+      "name": "video1",
+      "prompt": "Summer concert scene thumbnail with vibrant outdoor festival atmosphere. Shows stage with performers and colorful lighting against a sunset sky. High energy and festive mood.",
+      "ratio": "16/9",
+      "subfolder": "videos"
+    },
+    {
+      "name": "video2",
+      "prompt": "Behind the scenes music studio shot. Shows professional recording equipment, instruments, and studio environment. Warm lighting with technical music production elements.",
+      "ratio": "16/9",
+      "subfolder": "videos"
+    }, 
+    {
+      "name": "user1",
+      "prompt": "Profile picture of a jazz enthusiast. Casual and friendly appearance with subtle jazz-related elements in the background. Natural lighting and authentic expression.",
+      "ratio": "1/1",
+      "subfolder": "users"
+    },
+    {
+      "name": "user2",
+      "prompt": "Profile picture of a rock music fan. Edgy style with band t-shirt and authentic rock culture elements. Natural, candid expression.",
+      "ratio": "1/1",
+      "subfolder": "users"
+    }
+  ]
+} 
